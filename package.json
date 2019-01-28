@@ -4,5 +4,11 @@
   "main": "index.js",
   "author": "Agustino Saling <agustino@saling.eu>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "@babel/preset-env": "7.2.0",
+    "@babel/preset-react": "7.0.0"
+  },
+  "dependencies": {}
 }
