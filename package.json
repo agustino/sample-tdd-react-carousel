@@ -1,0 +1,8 @@
+{
+  "name": "carousel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Agustino Saling <agustino@saling.eu>",
+  "license": "MIT",
+  "private": true
+}
